@@ -38,7 +38,7 @@ body {
         'suvs'
         'luxury';
     grid-template-rows: repeat(3, 480px);
-    grid-template-columns: 360px;
+    grid-template-columns: 340px;
     justify-content: center;
 }
 
